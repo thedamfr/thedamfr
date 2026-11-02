@@ -1,5 +1,9 @@
 # Travailler avec Damien Cavaillès
 
+Bienvenue ! Je suis enthousiaste à l’idée de travailler avec vous.
+
+Communiquer sur nos façons de travailler est essentiel pour bien collaborer. J’ai formalisé ici quelques repères sur ma façon de travailler. Je serais content de découvrir la vôtre et, surtout, de discuter ensemble des modalités de notre collaboration.
+
 ## Vous pouvez me faire du feedback brutal
 
 « Là, tu as mis du vert. Il fallait du rouge. » Ça me va. Je corrige et on avance, sans négocier chaque retour. Je vous demanderai peut-être plus tard pourquoi le rouge était mieux. En phase d’exécution, on n’arrête pas le train en marche.
